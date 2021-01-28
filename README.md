@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there 👋, i'm VCoding
 
-<!--
-**vincent-coding/vincent-coding** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Github Statistics
+![Github Statistics](https://github-readme-stats.vercel.app/api?username=vincent-coding&theme=gotham&show_icons=true&count_private=true&hide=contribs)
+<br /><br />
+![Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-coding&theme=gotham&langs_count=6&layout=compact)
 
-Here are some ideas to get you started:
+#### Follow Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Follow me on Github](https://img.shields.io/github/followers/vincent-coding?style=social)](https://twitter.com/VincentCoding)<br />
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/VincentCoding?style=social)](https://github.com/vincent-coding)
+
+#### Contact me
+- **Discord**: VCoding#4488
+- **Email**: [vcoding@pm.me](mailto:vcoding@pm.me)
+- **Twitter**: [@VincentCoding](https://twitter.com/VincentCoding)
