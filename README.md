@@ -7,8 +7,8 @@
 
 #### Follow Me
 
-[![Follow me on Github](https://img.shields.io/github/followers/vincent-coding?style=social)](https://twitter.com/VincentCoding)<br />
-[![Follow me on Twitter](https://img.shields.io/twitter/follow/VincentCoding?style=social)](https://github.com/vincent-coding)
+[![Follow me on Github](https://img.shields.io/github/followers/vincent-coding?style=social)](https://github.com/vincent-coding)<br />
+[![Follow me on Twitter](https://img.shields.io/twitter/follow/VincentCoding?style=social)](https://twitter.com/VincentCoding)
 
 #### Contact me
 - **Discord**: VCoding#4488
