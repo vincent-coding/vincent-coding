@@ -24,5 +24,6 @@
   
   #### Follow Me
   [![Github](https://img.shields.io/github/followers/vincent-coding?style=for-the-badge&logo=github)](https://github.com/vincent-coding)
-  [![Twitter](https://img.shields.io/github/followers/vincent-coding?style=for-the-badge&logo=twitter)](https://twitter.com/VincentCoding)
+  [![Twitter](https://img.shields.io/github/followers/vincent-coding?style=for-the-badge&logo=twitter)](https://twitter.com/VincentCoding)<br />
+  [![Discord](https://discord.c99.nl/widget/theme-3/467630539898224661.png)](https://discord.com/users/467630539898224661)
 </div>
