@@ -1,8 +1,8 @@
 ### Hi there 👋, i'm VCoding
 
 <div align="center">
-  <img height="200" src="https://github-profile-trophy.vercel.app/?username=vincent-coding&theme=discord&no-frame=true&column=4" />
-  <img height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-coding&theme=gotham&langs_count=6&layout=compact" />
+  <img height="175" src="https://github-profile-trophy.vercel.app/?username=vincent-coding&theme=discord&no-frame=true&column=4" />
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vincent-coding&theme=gotham&langs_count=6&layout=compact" />
 </div>
 
 ---
@@ -26,4 +26,10 @@
   [![Github](https://img.shields.io/github/followers/vincent-coding?style=for-the-badge&logo=github)](https://github.com/vincent-coding)
   [![Twitter](https://img.shields.io/github/followers/vincent-coding?style=for-the-badge&logo=twitter)](https://twitter.com/VincentCoding)<br />
   [![Discord](https://discord.c99.nl/widget/theme-3/467630539898224661.png)](https://discord.com/users/467630539898224661)
+</div>
+
+---
+
+<div align="center">
+  <img src="https://profile-counter.glitch.me/vincent-coding/count.svg" />
 </div>
